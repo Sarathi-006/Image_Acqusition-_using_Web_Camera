@@ -123,14 +123,16 @@ cv2.destroyAllWindows()
 
 
 ### ii) Display the video
-![Uploading Screenshot 2025-09-29 100723.png…]()
+
+<img width="629" height="477" alt="Screenshot 2025-09-29 100723" src="https://github.com/user-attachments/assets/ab8929a6-9f44-4d0d-a482-5c8e24bf0f66" />
 
 
 
 
 
 ### iii) Display the video by resizing the window
-![Uploading Screenshot 2025-09-29 100742.png…]()
+
+<img width="324" height="489" alt="Screenshot 2025-09-29 100742" src="https://github.com/user-attachments/assets/6368a35e-7f16-445d-a220-3c65b19623c7" />
 
 
 
